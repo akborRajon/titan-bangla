@@ -25,6 +25,7 @@ public class switvchWindow {
 
 	WebElement clickHereButton = driver.findElement(By.xpath("//*[contains(text),'Click Here')]"));
 	clickHereButton.click();
+	
 	String mainWindow = driver.getWindowHandle();
 	Set<String> allWindow = driver.getWindowHandles();
 	
