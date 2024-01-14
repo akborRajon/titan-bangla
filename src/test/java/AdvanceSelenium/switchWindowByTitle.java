@@ -1,5 +1,6 @@
 package AdvanceSelenium;
 
+import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -26,7 +27,7 @@ public class switchWindowByTitle {
 			clickHereButton.click(); 
 			
 			
-			windowByTitle(driver, "New Window"); 
+			windowByTitle(driver, "new Window"); 
 			
 
 		}
@@ -57,7 +58,8 @@ public class switchWindowByTitle {
 					System.out.println("sorry, can not find your window");
 				}
 			}
-		
+		}
 		
 
-	
+	}
+
