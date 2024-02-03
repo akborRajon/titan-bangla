@@ -1,10 +1,13 @@
-AdvanceSelenium\iterativePractice.class
 AdvanceSelenium\switvchWindow.class
+steps\userLogin.class
+AdvanceSelenium\practiceForEachLoop.class
+AdvanceSelenium\mouseHover.class
+AdvanceSelenium\iterativePractice.class
 common\amazonBase.class
 AdvanceSelenium\dropDown.class
+AdvanceSelenium\switchWindowByTitle.class
 pages\amazonHomePage.class
-steps\userLogin.class
-AdvanceSelenium\mouseHover.class
+AdvanceSelenium\mouiseOver2.class
 AdvanceSelenium\checkBox.class
 runner\TestRunner.class
 AdvanceSelenium\DragandDrop.class
